@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+gwtMavenModuleName=org.yapiz.App
+gwtMavenModuleShortName=app
+jarsExcludedFromWebInfLib=
+lastWarOutDir=/Users/syadav/projects/gwtapp/gwtapp-client/target/gwtapp-client-1.0-SNAPSHOT
+warSrcDir=
+warSrcDirIsOutput=false
